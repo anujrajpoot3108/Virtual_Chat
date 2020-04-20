@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774344614817",
+    "firebase_url": "https://virtual-chat-939f5.firebaseio.com",
+    "project_id": "virtual-chat-939f5",
+    "storage_bucket": "virtual-chat-939f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774344614817:android:b7f40cd186f231e0b421e0",
+        "android_client_info": {
+          "package_name": "com.example.virtualchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774344614817-69jbu5d9i58ehfuhg0vlqje8r4f6qtp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.virtualchat",
+            "certificate_hash": "bc512ed88ab56e3823f8f65a6b6f8c5f3c32ffd9"
+          }
+        },
+        {
+          "client_id": "774344614817-6o8nk3etsf3hc4esn4bm4s0ghg2e10rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZPPnSOn1A4huBqV_0WBmJCREbv9q7T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774344614817-6o8nk3etsf3hc4esn4bm4s0ghg2e10rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
